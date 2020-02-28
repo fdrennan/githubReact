@@ -4,7 +4,11 @@
     <list default="true" id="fe39126c-d472-4fd9-a6a6-2fa4f54ed903" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/context/github/GithubState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/context/github/GithubState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/context/github/githubReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/context/github/githubReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Alert.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/users/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/User.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/users/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +89,7 @@
       <workItem from="1582405365393" duration="33000" />
       <workItem from="1582437561333" duration="33000" />
       <workItem from="1582439566581" duration="18603000" />
-      <workItem from="1582854109246" duration="2880000" />
+      <workItem from="1582854109246" duration="8712000" />
     </task>
     <servers />
   </component>
